@@ -1,2 +1,7 @@
 .python-version
 __pycache__/
+
+# Sensitive environment variables
+# NEVER REMOVE THIS UNLESS YOU KNOW WHAT
+# YOU'RE DOING!
+.env
